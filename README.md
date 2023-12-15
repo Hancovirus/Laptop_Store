@@ -9,7 +9,7 @@
   
   [Lưu Khải Hưng (22028288) - K67CA-CLC4](https://github.com/luukhaihung22028288)
   
-  [Lê Bá Hoàng () - K67CA-CLC4]()
+  [Lê Bá Hoàng (22028150) - K67CA-CLC4](https://github.com/lamhoang195)
   
 ## Front-end:
   - HTML

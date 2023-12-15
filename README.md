@@ -1,4 +1,4 @@
-# Laptop_Store
+# UETLaptop
   A VNU_UET (Vietnam National University - University of Engineering and Technology) Database project of web-based platform for selling laptops with a focus on students and faculty. The platform will serve as an online marketplace where users can browse, compare, and purchase laptops.
 
 ## Member:

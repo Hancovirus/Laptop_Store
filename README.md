@@ -15,7 +15,9 @@
   Install Xampp -> Put this project into \xampp\htdocs -> import database "projectlaptop\database\myproject.sql" 
   
   In PHP file change servername, username, password, database to match with your system
-  ![403416219_1059344405343854_3109838794952339761_n](https://github.com/Hancovirus/Laptop_Store/assets/125468313/ecb80b8a-7976-48b8-9217-c8dfce0bac98)
+  
+  ![403416219_1059344405343854_3109838794952339761_n](https://github.com/Hancovirus/Laptop_Store/assets/125468313/3ebe0135-91a3-4245-9805-bd8013b802ce)
+
 
   You can either: Run "http://localhost/projectlaptop/login.php" -> Login into admin account **username:** admin  **password:** 1
   
